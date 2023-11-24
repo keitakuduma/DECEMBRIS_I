@@ -1,0 +1,1 @@
+# Manuprāt, ar GitHub tiku galā, taču grūtības bija izveidot uzdotos uzdevumus python failos.
